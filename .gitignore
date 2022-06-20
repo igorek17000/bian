@@ -4,6 +4,9 @@ nupkg/
 
 # Visual Studio Code
 .vscode
+.vsidx
+.lock
+.suo
 
 # Build results
 [Dd]ebug/
