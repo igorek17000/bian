@@ -7,7 +7,7 @@ nupkg/
 .vsidx
 .lock
 .suo
-
+.vs/
 # Build results
 [Dd]ebug/
 [Dd]ebugPublic/
